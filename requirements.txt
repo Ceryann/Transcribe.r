@@ -1,0 +1,9 @@
+# torch & torchaudio TIDAK ditulis di sini: dipasang terpisah oleh workflow (versi CUDA/CPU dipilih saat build).
+openai-whisper
+customtkinter
+pillow
+demucs
+yt-dlp[default]
+deep-translator
+tkinterdnd2
+argostranslate
